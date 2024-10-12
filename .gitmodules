@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "qtl2ggplot"]
+	path = qtl2ggplot
+	url = https://github.com/byandell-sysgen/qtl2ggplot
+[submodule "qtl2pattern"]
+	path = qtl2pattern
+	url = https://github.com/byandell-sysgen/qtl2pattern
