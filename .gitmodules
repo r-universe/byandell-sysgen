@@ -8,3 +8,6 @@
 [submodule "qtl2pattern"]
 	path = qtl2pattern
 	url = https://github.com/byandell-sysgen/qtl2pattern
+[submodule "qtlhot"]
+	path = qtlhot
+	url = https://github.com/byandell-sysgen/qtlhot
