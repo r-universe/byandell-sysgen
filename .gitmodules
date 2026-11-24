@@ -11,3 +11,6 @@
 [submodule "qtlhot"]
 	path = qtlhot
 	url = https://github.com/byandell-sysgen/qtlhot
+[submodule "qtlnet"]
+	path = qtlnet
+	url = https://github.com/byandell-sysgen/qtlnet
